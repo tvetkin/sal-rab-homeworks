@@ -30,6 +30,7 @@ function renderCartItem(item) {
     itemCountText = itemCountText + sum;
     // 8. Присвойте переменной itemCountText результат склеивания itemCountText и ` ₽`
     itemCountText = itemCountText + ` ₽`;
+    //finish
 
     // Конец решения задания №3.1.
 
